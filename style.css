@@ -8,6 +8,7 @@ html, body {
       font-family: "Roboto Mono" !important;
       background: #F8F8FF !important;
       color: #000 !important;
+      scroll-behavior: smooth;
 }
 
 .whitespace {
@@ -574,14 +575,14 @@ textarea:focus {
       margin-left: 50px;
       text-transform: uppercase;
       padding: 20px 30px;
-      background: transparent;
-      color: #dfdfdf;
+      background: #dfdfdf;
+      color: #101010;
       font-size: 14px;
       letter-spacing: 2px;
 }
 
 .send:hover {
-      background: #dfdfdf;
+      background: #adadad;
       color: #101010;
 }
 

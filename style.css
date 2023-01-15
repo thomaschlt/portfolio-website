@@ -418,7 +418,7 @@ h6 {
       padding-left: 20px;
 }
 
-#fb::before {
+#lk::before {
       display: inline-block;
       content: '';
       border-radius: 100%;
@@ -451,14 +451,14 @@ h6 {
 }
 
 
-#yt::before {
+#sp::before {
       display: inline-block;
       content: '';
       border-radius: 100%;
       height: 4px;
       width: 4px;
       margin-right: 6px;
-      background: #c4302b;
+      background: #1DB954;
 }
 
 #media, #address {
